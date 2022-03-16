@@ -1,2 +1,2 @@
 # pa-taller-7
-❌ horrible website.
+📚 Simple website with js effects.
